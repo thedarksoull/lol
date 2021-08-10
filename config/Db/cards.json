@@ -1,0 +1,72 @@
+{
+  "whatazachattack": [
+    {
+      "id": "teamrocketsquirtle",
+      "name": "Squirtle",
+      "pack": "Team Rocket",
+      "packid": "base5",
+      "type": "Water",
+      "image": "https://images.pokemontcg.io/base5/68.png",
+      "cardType": "Basic",
+      "species": "Squirtle",
+      "rarity": "Common"
+    },
+    {
+      "id": "teamrocketekans",
+      "name": "Ekans",
+      "pack": "Team Rocket",
+      "packid": "base5",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/base5/56.png",
+      "cardType": "Basic",
+      "species": "Ekans",
+      "rarity": "Common"
+    },
+    {
+      "id": "teamrocketponyta",
+      "name": "Ponyta",
+      "pack": "Team Rocket",
+      "packid": "base5",
+      "type": "Fire",
+      "image": "https://images.pokemontcg.io/base5/64.png",
+      "cardType": "Basic",
+      "species": "Ponyta",
+      "rarity": "Common"
+    }
+  ],
+  "elsaspirit": [
+    {
+      "id": "xypawniard",
+      "name": "Pawniard",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Metal",
+      "image": "https://images.pokemontcg.io/xy1/81.png",
+      "cardType": "Basic",
+      "species": "Pawniard",
+      "rarity": "Common"
+    },
+    {
+      "id": "xyspritzee",
+      "name": "Spritzee",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Fairy",
+      "image": "https://images.pokemontcg.io/xy1/92.png",
+      "cardType": "Basic",
+      "species": "Spritzee",
+      "rarity": "Common"
+    },
+    {
+      "id": "xyjigglypuff",
+      "name": "Jigglypuff",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Fairy",
+      "image": "https://images.pokemontcg.io/xy1/88.png",
+      "cardType": "Basic",
+      "species": "Jigglypuff",
+      "rarity": "Common"
+    }
+  ]
+}
